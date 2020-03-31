@@ -91,4 +91,4 @@ Feito isso, acessar o endereço http://localhost:3333
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 Crédito pelo readme: 
-https://github.com/hugo-marcelo/codenation-julio-cesar/blob/master/README.md
+https://github.com/hugo-marcelo/codenation-julio-cesar/
