@@ -5,7 +5,7 @@ const request = require("request");
 const { join } = require("path");
 const app = express();
 
-const token = "26af6707a50d0534ae8144fef598de7d51458f63";
+const token = "";
 const apiGetChallenge = `https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=${token}`;
 const apiSubmitSolution = `https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=${token}`;
 const fs = require("fs");
