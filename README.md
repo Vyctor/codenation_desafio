@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="codenation" title="#codenation" src=".github/codenation.png" width="250px" />
+    <img alt="codenation" title="#codenation" src="https://raw.githubusercontent.com/hugo-marcelo/codenation-julio-cesar/master/.github/codenation.png" width="250px" />
 </h1>
 
 <h4 align="center">
